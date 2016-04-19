@@ -1,0 +1,27 @@
+{
+  "name": "desktop-sharing",
+  "version": "1.0.0",
+  "description": "The screen sharing based on the web and electron",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "/Applications/Electron.app/Contents/MacOS/Electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micua/desktop-sharing.git"
+  },
+  "keywords": [
+    "Screen",
+    "Sharing",
+    "Desktop",
+    "Sharing"
+  ],
+  "author": "iceStone <ice@wedn.net> (http://www.wedn.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micua/desktop-sharing/issues"
+  },
+  "homepage": "https://github.com/Micua/desktop-sharing#readme"
+}
